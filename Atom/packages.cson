@@ -1,0 +1,12 @@
+packages: [
+  "chester-atom-syntax"
+  "docblockr"
+  "file-icons"
+  "linter"
+  "linter-eslint"
+  "minimap"
+  "package-sync"
+  "pigments"
+  "script"
+  "sort-lines"
+]

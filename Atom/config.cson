@@ -1,0 +1,54 @@
+"*":
+  "bracket-matcher":
+    autocompleteBrackets: false
+    autocompleteSmartQuotes: false
+  "command-palette": {}
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "chester-atom-syntax"
+    ]
+    useCustomTitleBar: true
+  docblockr: {}
+  editor:
+    fontSize: 13
+    invisibles: {}
+    preferredLineLength: 125
+    tabLength: 4
+  "exception-reporting":
+    userId: "69fe01a5-f00f-40e5-c271-84688a2e1831"
+  "file-icons":
+    tabPaneIcon: false
+  "git-diff": {}
+  linter:
+    errorPanelHeight: 114
+    gutterEnabled: false
+    gutterPosition: "Left"
+    lintOnFlyInterval: 500
+  "linter-jscs": {}
+  minimap:
+    absoluteMode: true
+    adjustMinimapWidthOnlyIfSmaller: false
+    adjustMinimapWidthToSoftWrap: false
+    autoToggle: false
+    ignoreWhitespacesInTokens: true
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+    smoothScrolling: false
+  "one-dark-ui":
+    layoutMode: "Compact"
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
+  pigments:
+    extendedSearchNames: [
+      "['**/*.css'"
+      "'**/*.js']"
+    ]
+  "spell-check": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false

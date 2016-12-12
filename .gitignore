@@ -1,0 +1,7 @@
+/Atom/.apm/
+/Atom/.node-gyp/
+/Atom/blob-store/
+/Atom/compile-cache/
+/Atom/packages/
+/Atom/recovery/
+/Atom/storage/

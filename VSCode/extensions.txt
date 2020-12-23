@@ -1,0 +1,13 @@
+EditorConfig.EditorConfig
+JamesBirtles.svelte-vscode
+Orta.vscode-jest
+Tyriar.sort-lines
+chriseckenrode.vscode-chester-atom
+dbaeumer.vscode-eslint
+johnpapa.vscode-peacock
+kumar-harsh.graphql-for-vscode
+monokai.theme-monokai-pro-vscode
+ms-vscode.powershell
+streetsidesoftware.code-spell-checker
+vscode-icons-team.vscode-icons
+wayou.vscode-todo-highlight

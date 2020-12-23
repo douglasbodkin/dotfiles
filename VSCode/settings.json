@@ -1,0 +1,27 @@
+{
+	"breadcrumbs.enabled": true,
+	"editor.autoClosingBrackets": "never",
+	"editor.fontFamily": "\"SF Mono\", Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontSize": 13,
+	"editor.minimap.showSlider": "always",
+	"editor.rulers": [
+		125
+	],
+	"editor.tokenColorCustomizations": {
+		"[Chester Atom]": {
+			"functions": "#008cff",
+			"keywords": "#73d7ff",
+			"strings": "#03dd32"
+		}
+	},
+	"eslint.run": "onSave",
+	"html.autoClosingTags": false,
+	"window.zoomLevel": 0,
+	"workbench.colorCustomizations": {
+		"editorCursor.foreground": "#09ff00"
+	},
+	"workbench.colorTheme": "Monokai Pro (Filter Machine)",
+	"workbench.editor.enablePreviewFromQuickOpen": false,
+	"workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+	"workbench.sideBar.location": "left"
+}
